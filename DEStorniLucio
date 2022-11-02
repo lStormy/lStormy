@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T19:37:47.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="CpD8DDPGmbSjWrWObWjO" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T19:37:59.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="IMCTiIoR3o8CNSa5rIFd" version="20.5.1" type="github">
   <diagram id="xNcpR7vNppVT5aAEVRGP" name="Página-1">
     <mxGraphModel dx="996" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,9 +124,6 @@
         </mxCell>
         <mxCell id="gEqSIkRQaXT77LhHzEWf-38" value="cantletras" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="155" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gEqSIkRQaXT77LhHzEWf-39" value="No me robes, fui al baño" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="320" y="235" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
