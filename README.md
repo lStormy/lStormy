@@ -1,5 +1,1 @@
 -  Hi, I’m @lStormy
--  I’m interested in Videogames
--  I’m currently learning c++
--  I’m looking to collaborate on nothing :)
--  How to reach me Dm on discord (Lucio#4541) if you want 
